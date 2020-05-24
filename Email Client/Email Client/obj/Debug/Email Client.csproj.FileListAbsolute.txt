@@ -1,0 +1,20 @@
+C:\Users\SHREY KUMAR JAIN\Downloads\Compressed\Email Client\Email Client\bin\Debug\Email Client.exe.config
+C:\Users\SHREY KUMAR JAIN\Downloads\Compressed\Email Client\Email Client\bin\Debug\Email Client.exe
+C:\Users\SHREY KUMAR JAIN\Downloads\Compressed\Email Client\Email Client\bin\Debug\Email Client.pdb
+C:\Users\SHREY KUMAR JAIN\Downloads\Compressed\Email Client\Email Client\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SHREY KUMAR JAIN\Downloads\Compressed\Email Client\Email Client\obj\Debug\Email_Client.EmailClient.resources
+C:\Users\SHREY KUMAR JAIN\Downloads\Compressed\Email Client\Email Client\obj\Debug\Email_Client.Properties.Resources.resources
+C:\Users\SHREY KUMAR JAIN\Downloads\Compressed\Email Client\Email Client\obj\Debug\ResGen.read.1.tlog
+C:\Users\SHREY KUMAR JAIN\Downloads\Compressed\Email Client\Email Client\obj\Debug\ResGen.write.1.tlog
+C:\Users\SHREY KUMAR JAIN\Downloads\Compressed\Email Client\Email Client\obj\Debug\Email Client.exe
+C:\Users\SHREY KUMAR JAIN\Downloads\Compressed\Email Client\Email Client\obj\Debug\Email Client.pdb
+E:\Main Project\Email Client\Email Client\bin\Debug\Email Client.exe.config
+E:\Main Project\Email Client\Email Client\bin\Debug\Email Client.exe
+E:\Main Project\Email Client\Email Client\bin\Debug\Email Client.pdb
+E:\Main Project\Email Client\Email Client\obj\Debug\ResolveAssemblyReference.cache
+E:\Main Project\Email Client\Email Client\obj\Debug\Email_Client.EmailClient.resources
+E:\Main Project\Email Client\Email Client\obj\Debug\Email_Client.Properties.Resources.resources
+E:\Main Project\Email Client\Email Client\obj\Debug\ResGen.read.1.tlog
+E:\Main Project\Email Client\Email Client\obj\Debug\ResGen.write.1.tlog
+E:\Main Project\Email Client\Email Client\obj\Debug\Email Client.exe
+E:\Main Project\Email Client\Email Client\obj\Debug\Email Client.pdb

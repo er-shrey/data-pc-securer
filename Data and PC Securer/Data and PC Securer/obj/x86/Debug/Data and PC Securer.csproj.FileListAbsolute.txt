@@ -1,0 +1,52 @@
+E:\Main Project\Data and PC Securer\Data and PC Securer\bin\Debug\Data and PC Securer.exe
+E:\Main Project\Data and PC Securer\Data and PC Securer\bin\Debug\Data and PC Securer.pdb
+E:\Main Project\Data and PC Securer\Data and PC Securer\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Main Project\Data and PC Securer\Data and PC Securer\obj\x86\Debug\Data_and_PC_Securer.Properties.Resources.resources
+E:\Main Project\Data and PC Securer\Data and PC Securer\obj\x86\Debug\Data_and_PC_Securer.Splash.resources
+E:\Main Project\Data and PC Securer\Data and PC Securer\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Main Project\Data and PC Securer\Data and PC Securer\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Main Project\Data and PC Securer\Data and PC Securer\obj\x86\Debug\Data and PC Securer.exe
+E:\Main Project\Data and PC Securer\Data and PC Securer\obj\x86\Debug\Data and PC Securer.pdb
+E:\Main Project\Data and PC Securer\Data and PC Securer\obj\x86\Debug\Data_and_PC_Securer.Password.resources
+E:\Main Project\Data and PC Securer\Data and PC Securer\obj\x86\Debug\Data_and_PC_Securer.Data_and_PC_Securer.resources
+E:\Main Project\Data and PC Securer\Data and PC Securer\obj\x86\Debug\Data_and_PC_Securer.Verify_Name.resources
+E:\Main Project\Data and PC Securer\Data and PC Securer\obj\x86\Debug\Data_and_PC_Securer.Decrypt_file.resources
+E:\Main Project\Data and PC Securer\Data and PC Securer\obj\x86\Debug\Data_and_PC_Securer.Email_Encryption.resources
+E:\Main Project\Data and PC Securer\Data and PC Securer\obj\x86\Debug\Data_and_PC_Securer.Encrypt_full_Drive.resources
+E:\Main Project\Data and PC Securer\Data and PC Securer\obj\x86\Debug\Data_and_PC_Securer.Hide_Folder.resources
+E:\Main Project\Data and PC Securer\Data and PC Securer\obj\x86\Debug\Data_and_PC_Securer.Hide_Message.resources
+E:\Main Project\Data and PC Securer\Data and PC Securer\obj\x86\Debug\Data_and_PC_Securer.Intelligent_Mind_Text.resources
+E:\Main Project\Data and PC Securer\Data and PC Securer\obj\x86\Debug\Data_and_PC_Securer.WiFi_Encryption.resources
+E:\Main Project\Data and PC Securer\Data and PC Securer\obj\x86\Debug\Data_and_PC_Securer.About.resources
+E:\Main Project\Data and PC Securer\Data and PC Securer\obj\x86\Debug\Data_and_PC_Securer.Encrypt_File.resources
+E:\Main Project\Data and PC Securer\Data and PC Securer\obj\x86\Debug\Data_and_PC_Securer.Settings.resources
+E:\Data and PC Securer\Data and PC Securer\obj\x86\Debug\Data and PC Securer.exe
+E:\Data and PC Securer\Data and PC Securer\obj\x86\Debug\Data and PC Securer.pdb
+E:\Data and PC Securer\Data and PC Securer\bin\Debug\Data and PC Securer.exe
+E:\Data and PC Securer\Data and PC Securer\bin\Debug\Data and PC Securer.pdb
+E:\Data and PC Securer\Data and PC Securer\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Data and PC Securer\Data and PC Securer\obj\x86\Debug\Data_and_PC_Securer.About.resources
+E:\Data and PC Securer\Data and PC Securer\obj\x86\Debug\Data_and_PC_Securer.Data_and_PC_Securer.resources
+E:\Data and PC Securer\Data and PC Securer\obj\x86\Debug\Data_and_PC_Securer.Decrypt_file.resources
+E:\Data and PC Securer\Data and PC Securer\obj\x86\Debug\Data_and_PC_Securer.Email_Encryption.resources
+E:\Data and PC Securer\Data and PC Securer\obj\x86\Debug\Data_and_PC_Securer.Encrypt_File.resources
+E:\Data and PC Securer\Data and PC Securer\obj\x86\Debug\Data_and_PC_Securer.Encrypt_full_Drive.resources
+E:\Data and PC Securer\Data and PC Securer\obj\x86\Debug\Data_and_PC_Securer.Hide_Folder.resources
+E:\Data and PC Securer\Data and PC Securer\obj\x86\Debug\Data_and_PC_Securer.Hide_Message.resources
+E:\Data and PC Securer\Data and PC Securer\obj\x86\Debug\Data_and_PC_Securer.Intelligent_Mind_Text.resources
+E:\Data and PC Securer\Data and PC Securer\obj\x86\Debug\Data_and_PC_Securer.Password.resources
+E:\Data and PC Securer\Data and PC Securer\obj\x86\Debug\Data_and_PC_Securer.Properties.Resources.resources
+E:\Data and PC Securer\Data and PC Securer\obj\x86\Debug\Data_and_PC_Securer.Settings.resources
+E:\Data and PC Securer\Data and PC Securer\obj\x86\Debug\Data_and_PC_Securer.Splash.resources
+E:\Data and PC Securer\Data and PC Securer\obj\x86\Debug\Data_and_PC_Securer.Verify_Name.resources
+E:\Data and PC Securer\Data and PC Securer\obj\x86\Debug\Data_and_PC_Securer.WiFi_Encryption.resources
+E:\Data and PC Securer\Data and PC Securer\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Data and PC Securer\Data and PC Securer\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Main Project\Data and PC Securer\Data and PC Securer\bin\Debug\Email Client.exe
+E:\Main Project\Data and PC Securer\Data and PC Securer\bin\Debug\Email Client.pdb
+E:\Main Project\Data and PC Securer\Data and PC Securer\bin\Debug\Folder Compression.exe
+E:\Main Project\Data and PC Securer\Data and PC Securer\bin\Debug\Folder Compression.pdb
+E:\Main Project\Data and PC Securer\Data and PC Securer\bin\Debug\Data and PC Securer.exe.manifest
+E:\Main Project\Data and PC Securer\Data and PC Securer\bin\Debug\Data and PC Securer.application
+E:\Main Project\Data and PC Securer\Data and PC Securer\obj\x86\Debug\Data and PC Securer.exe.manifest
+E:\Main Project\Data and PC Securer\Data and PC Securer\obj\x86\Debug\Data and PC Securer.application

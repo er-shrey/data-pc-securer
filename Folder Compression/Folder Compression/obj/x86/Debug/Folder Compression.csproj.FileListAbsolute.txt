@@ -1,0 +1,9 @@
+E:\Main Project\Folder Compression\Folder Compression\bin\Debug\Folder Compression.exe
+E:\Main Project\Folder Compression\Folder Compression\bin\Debug\Folder Compression.pdb
+E:\Main Project\Folder Compression\Folder Compression\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Main Project\Folder Compression\Folder Compression\obj\x86\Debug\Folder_Compression.Properties.Resources.resources
+E:\Main Project\Folder Compression\Folder Compression\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Main Project\Folder Compression\Folder Compression\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Main Project\Folder Compression\Folder Compression\obj\x86\Debug\Folder Compression.exe
+E:\Main Project\Folder Compression\Folder Compression\obj\x86\Debug\Folder Compression.pdb
+E:\Main Project\Folder Compression\Folder Compression\obj\x86\Debug\Folder_Compression.Compression.resources

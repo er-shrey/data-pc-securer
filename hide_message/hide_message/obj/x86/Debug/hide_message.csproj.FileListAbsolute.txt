@@ -1,0 +1,9 @@
+E:\Main Project\hide_message\hide_message\bin\Debug\hide_message.exe
+E:\Main Project\hide_message\hide_message\bin\Debug\hide_message.pdb
+E:\Main Project\hide_message\hide_message\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Main Project\hide_message\hide_message\obj\x86\Debug\hide_message.Form1.resources
+E:\Main Project\hide_message\hide_message\obj\x86\Debug\hide_message.Properties.Resources.resources
+E:\Main Project\hide_message\hide_message\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Main Project\hide_message\hide_message\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Main Project\hide_message\hide_message\obj\x86\Debug\hide_message.exe
+E:\Main Project\hide_message\hide_message\obj\x86\Debug\hide_message.pdb

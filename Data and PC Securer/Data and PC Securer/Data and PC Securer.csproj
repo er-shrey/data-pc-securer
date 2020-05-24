@@ -1,0 +1,295 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{21C0E127-43EE-40CF-8F0C-0C6F2E87729E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Data_and_PC_Securer</RootNamespace>
+    <AssemblyName>Data and PC Securer</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="About.Designer.cs">
+      <DependentUpon>About.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Data and PC Securer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Data and PC Securer.Designer.cs">
+      <DependentUpon>Data and PC Securer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Decrypt file.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Decrypt file.Designer.cs">
+      <DependentUpon>Decrypt file.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Email Encryption.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Email Encryption.Designer.cs">
+      <DependentUpon>Email Encryption.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Encrypt File.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Encrypt File.Designer.cs">
+      <DependentUpon>Encrypt File.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Encrypt full Drive.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Encrypt full Drive.Designer.cs">
+      <DependentUpon>Encrypt full Drive.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hide Folder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hide Folder.Designer.cs">
+      <DependentUpon>Hide Folder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hide Message.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hide Message.Designer.cs">
+      <DependentUpon>Hide Message.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Intelligent Mind Text.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Intelligent Mind Text.Designer.cs">
+      <DependentUpon>Intelligent Mind Text.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Password.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Password.Designer.cs">
+      <DependentUpon>Password.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings.Designer.cs">
+      <DependentUpon>Settings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Splash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Splash.Designer.cs">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Verify Name.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Verify Name.Designer.cs">
+      <DependentUpon>Verify Name.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WiFi Encryption.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WiFi Encryption.Designer.cs">
+      <DependentUpon>WiFi Encryption.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="About.resx">
+      <DependentUpon>About.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Data and PC Securer.resx">
+      <DependentUpon>Data and PC Securer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Decrypt file.resx">
+      <DependentUpon>Decrypt file.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Email Encryption.resx">
+      <DependentUpon>Email Encryption.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Encrypt File.resx">
+      <DependentUpon>Encrypt File.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Encrypt full Drive.resx">
+      <DependentUpon>Encrypt full Drive.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hide Folder.resx">
+      <DependentUpon>Hide Folder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hide Message.resx">
+      <DependentUpon>Hide Message.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Intelligent Mind Text.resx">
+      <DependentUpon>Intelligent Mind Text.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Password.resx">
+      <DependentUpon>Password.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Settings.resx">
+      <DependentUpon>Settings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Splash.resx">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Verify Name.resx">
+      <DependentUpon>Verify Name.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WiFi Encryption.resx">
+      <DependentUpon>WiFi Encryption.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\splash.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loading1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\check.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\metal rod.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\key2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SlArrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cloud.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cloud2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\encrypt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\decrypt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\drive.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hfolder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mind.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\email.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wifi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hMessage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SlArrow2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\about.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\about1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\splash_colour.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sp2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Email Client\Email Client\Email Client.csproj">
+      <Project>{0E43E86D-D8FC-44A6-92F5-ED28822ADC8A}</Project>
+      <Name>Email Client</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Folder Compression\Folder Compression\Folder Compression.csproj">
+      <Project>{98748E5F-0FF4-4436-95C3-10A2E64DBBF3}</Project>
+      <Name>Folder Compression</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
